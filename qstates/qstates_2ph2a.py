@@ -78,7 +78,7 @@ class Qstates():
             self.entanglement = args[2]
             if self.entanglement is None:
                 state = QState(name, N, qosim_1ph_a, qosim_1ph_b, coef)
-                self.states = [state, state.perumuatated_state()]
+                self.states = [state, state.permutated_state()]
             else:
                 norm_coef = 2.0**(-1/4)
                 coef1 = norm_coef
