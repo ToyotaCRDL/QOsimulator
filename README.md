@@ -1,5 +1,5 @@
 # QOsimulator
-(Last update : December 15, 2023)
+(Last update : February 20, 2024)
 
 QOsimulator solves the photons dynamics in linear optical systems.
 
@@ -27,10 +27,8 @@ Sample jupyter notebooks are provided in the samples folder.
 If you find it useful to use this program in your research, please cite the following paper.
 
 ```
-J. Oba, S. Kajita, and A. Soeda, "Fast simulation for optical systems addressing the curse of dimensionality of multi-photons in quantum mechanics", arXiv preprint arXiv:2302.13953 (2023).
+J. Oba, S. Kajita, and A. Soeda, "Fast simulation for multi-photon, atomic-ensemble quantum model of linear optical systems addressing the curse of dimensionality", Scientific Reports 14, 3208 (2024). https://doi.org/10.1038/s41598-024-53246-2
 ```
-
-When accepted, the reference will be changed into an accepted journal.
 
 ## Notice
 Copyright (C) 2023 TOYOTA CENTRAL R&D LABS., INC. All Rights Reserved.
